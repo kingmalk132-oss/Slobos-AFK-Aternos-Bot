@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "_dragonfall.aternos.me",
-    "port": 24621,
+    "ip": "texo.play.hosting",
+    "port": 25657,
     "version": "",
     "try-creative": false
   },
