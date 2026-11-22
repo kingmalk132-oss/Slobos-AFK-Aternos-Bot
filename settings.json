@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "vexamc.mcsh.gg",
-    "port": 25657,
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
